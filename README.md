@@ -1,4 +1,7 @@
-![banner](https://github.com/raycavalcante/Git/blob/master/banner1.png?raw=true)
+
+<img src="https://logodownload.org/wp-content/uploads/2022/05/brazil-flag-bandeira-1.png" alt="banner" width="100">
+
+
 <h1 align="center">olá 👋, eu sou Ray Cavalcante Dos Santos</h1>
 <h3 align="center">Aprendendo a usar as tecnologias</h3>
 
