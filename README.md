@@ -2,9 +2,9 @@
 <h1 align="center">olá 👋, eu sou Ray Cavalcante Dos Santos</h1>
 <h3 align="center">Aprendendo a usar as tecnologias</h3>
 
-- 🔭 No momento estou conhecendo estou conhecendo o **javaSE**
+- 🔭 No momento estou conhecendo estou conhecendo o **Python**
 
-- 🌱 aAtualmente estou me buscando aperfeiçoar em **java, javaScrip e Python**
+- 🌱 Atualmente estou me buscando aperfeiçoar em **Back-end com Pyhton**
 
 - 📫 contato: **2023raysantos1@gmail.com**
 
